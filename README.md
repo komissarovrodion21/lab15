@@ -221,7 +221,7 @@ Hello, World!
 ==1649== ERROR SUMMARY: 1 errors from 1 contexts (suppressed: 9 from 9)
 ```
 
-4)Анализ через OCLint:
+4)Анализ через OCLint :
 ```
 $ oclint main.cpp -- -c
 OCLint Report
