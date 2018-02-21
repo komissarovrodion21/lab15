@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/komissarovrodion21/lab15.svg?branch=master)](https://travis-ci.org/komissarovrodion21/lab15)
+
 ## Laboratory work XV
 
 Данная лабораторная работа посвещена изучению инструментов статического и динамического анализа кода
